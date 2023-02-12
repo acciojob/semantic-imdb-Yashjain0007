@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+header{
+	font-size: larger;
+}
+a{
+	background-color: lightblue;
+}
+summary{
+	background-color: lightgray;
+}
